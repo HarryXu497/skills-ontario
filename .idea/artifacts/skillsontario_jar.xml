@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="skillsontario:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/skillsontario_jar</output-path>
+    <root id="archive" name="skillsontario.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="skillsontario" />
+    </root>
+  </artifact>
+</component>
